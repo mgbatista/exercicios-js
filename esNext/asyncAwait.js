@@ -22,6 +22,8 @@ const getTurma = letra => {
     })
 }
 
+
+
 // Recurso do ES8
 // Objetivo de simplificar o uso de promises...
 let obterAlunos = async () => {
